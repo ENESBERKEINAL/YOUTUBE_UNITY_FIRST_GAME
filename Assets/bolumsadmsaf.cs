@@ -18,6 +18,9 @@ public class bolum_sistemi : MonoBehaviour
     public void kilit_sistemi()
     {
         int bolums = PlayerPrefs.GetInt("bolum");
-
+    }
+    public void degis()
+    {
+        int getir=0;
     }
 }
